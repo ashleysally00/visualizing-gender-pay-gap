@@ -1,7 +1,7 @@
 # Visualizing the Gender Pay Gap Across the World
 
 ## Project Overview
-This project analyzes **gender wage gaps** across different countries and years, using the **Gender Economic Inequality Dataset** from Kaggle. The goal is to **visualize trends over time** and **compare wage gaps between multiple countries**.
+This project analyzes **gender wage gaps** across different countries and years, using the **Gender Economic Inequality Dataset** from Kaggle. The goal is to **visualize trends over time** and **compare wage gaps between multiple countries**. 
 
 ---
 
@@ -27,10 +27,13 @@ pandas
 Why we used it: It loads the paygap.csv file and lets us explore, filter, and organize the data.
 matplotlib
 
+**matplotlib**  
+
 #### What it does: Helps us make graphs and charts.
 Why we used it: It allows us to visualize the gender wage gap over time by plotting the data for different countries.
 
 This project uses the Gender Economic Inequality Dataset from Kaggle.
-You can find the dataset here:
-Gender Economic Inequality Dataset – Kaggle
+You can find the dataset here: [Gender Economic Inequality Dataset – Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/gender-economic-inequality).
+
+
 
