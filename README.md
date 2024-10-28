@@ -1,7 +1,7 @@
 # Visualizing the Gender Pay Gap Across the World
 
 ## Project Overview
-This project analyzes **gender wage gaps** across different countries and years, using the **Gender Economic Inequality Dataset** from Kaggle. The goal is to **visualize trends over time** and **compare wage gaps between multiple countries**. 
+This project analyzes **gender wage gaps** across different countries and years, using the [Gender Economic Inequality Dataset – Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/gender-economic-inequality). The goal is to **visualize trends over time** and **compare wage gaps between multiple countries**. 
 
 ---
 
