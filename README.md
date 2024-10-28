@@ -32,7 +32,7 @@ Why we used it: It loads the paygap.csv file and lets us explore, filter, and or
 Why we used it: It allows us to visualize the gender wage gap over time by plotting the data for different countries.
 
 This project uses the Gender Economic Inequality Dataset from Kaggle.
-You can find the dataset, along with further details, and a more in-depth analysis of the data, by author **Willian Oliveira Gibin**, here: [Gender Economic Inequality Dataset – Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/gender-economic-inequality).
+You can find the dataset, along with further details, and a more in-depth analysis of this data across the world, by author **Willian Oliveira Gibin**, here: [Gender Economic Inequality Dataset – Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/gender-economic-inequality).
 
 
 
