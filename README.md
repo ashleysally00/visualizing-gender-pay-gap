@@ -21,7 +21,7 @@ This graph shows how the gender wage gap in Brazil has changed over the years.
 This graph compares the gender wage gap between multiple countries over time.
 
 ## Libraries Used and What They Do
-pandas
+**pandas**
 
 #### What it does: Helps us work with data tables.
 Why we used it: It loads the paygap.csv file and lets us explore, filter, and organize the data.
