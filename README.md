@@ -10,13 +10,13 @@ This project analyzes **gender wage gaps** across different countries and years,
 
    ## Gender Wage Gap in Brazil Over Time
 
-<img src="wage_gap_brazil.png" alt="Wage Gap in Brazil" width="400"/>
-
-
+<img src="wage_gap_brazil.png" alt="Gender Wage Gap in Brazil over Time" width="400"/>
 
 This graph shows how the gender wage gap in Brazil has changed over the years.
 
 2. Gender Wage Gap Comparison Between Countries
+  
+<img src="wage_gap_comparison.png" alt="Gender Wage Gap Comparison Between Contries" width="400"/>
 
 This graph compares the gender wage gap between multiple countries over time.
 
