@@ -30,12 +30,6 @@ matplotlib
 #### What it does: Helps us make graphs and charts.
 Why we used it: It allows us to visualize the gender wage gap over time by plotting the data for different countries.
 
-
-#### What is doe: A toolkit for working with text data.
-Why we might use it: If the dataset had any text columns, like comments or descriptions, NLTK would help clean the text.
-Project Structure
-
-
 This project uses the Gender Economic Inequality Dataset from Kaggle.
 You can find the dataset here:
 Gender Economic Inequality Dataset – Kaggle
